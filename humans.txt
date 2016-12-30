@@ -1,6 +1,7 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 Ismail
+I am developer
 # TEAM
 
     <name> -- <role> -- <twitter>
